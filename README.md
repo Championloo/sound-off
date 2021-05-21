@@ -1,6 +1,7 @@
 # sound-off
 
 Если у вас на работе тоже есть любитель послушать музыку на весь кабинет (даже в наушниках!), который иногда забывает заблокировать компьютер пока отходит, то у меня есть решение.
+
 If you also have a lover at work to listen to music for the whole office (even with headphones!), who sometimes forgets to lock the computer while leaving, then I have a solution.
 
 - вставьте токен telegram-бота /insert telegram bot token
